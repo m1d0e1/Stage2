@@ -21,14 +21,14 @@ The initiation and validation of p53 protein into cancer research incorporation 
 This model is secured under the PDB ID: 1AIE.
 DOI: https://www.wwpdb.org/pdb?id=pdb_00001aie
 The crystal model of p53 serves as an independent entity with core functioning data, devoid of any coherence or association with external molecules. 
-![Fig1: 1AIE: p53 tetramerization domain crystal culture](images/1aie_assembly-1.jpeg){: width="100%"}
+![Fig1: 1AIE: p53 tetramerization domain crystal culture|500](images/1aie_assembly-1.jpeg)
 
 Using the data derived from the PDB ID, the FASTA sequence derived from this protein model is used further in SWISS-MODEL to extract templates of the highest homogeneity and uniformity corresponding with the selected protein structure. 
 At least 50 templates were generated through SWISS-MODEL from which a directly aligned prototype of 1AIE was recovered (1AIE.1.D). The selected template shows existing data of the p53 protein of interest
-![Fig2: Selected model from p53 domain through SWISS-MODEL](images/structure%20(1).png){: width="100%"}
+![Fig2: Selected model from p53 domain through SWISS-MODEL](images/structure%20(1).png)
 
 The template model stands with 90% of accuracy (GMQE data) in the alignment results corresponding to the PDB data of p53, providing the highest accuracy levels amongst all the templates generated. The template model is externally validated using X-ray mechanisms and matches with a 100% identification rate to the protein crystal structure. 
-[Fig3:Comparison with Non-redundant Set of PDB Structures](images/Quality_comparison.png){: width="100%"}
+[Fig3:Comparison with Non-redundant Set of PDB Structures](images/Quality_comparison.png)
 The graph represents the redundancy manner of the selected protein template model that locates in between the expected rates of QMEAN scores, referring it to be a potential model for homology modeling and visualization. 
 
 ## Cancer-related Mutations 
