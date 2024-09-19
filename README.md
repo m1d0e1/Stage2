@@ -35,10 +35,18 @@ The graph represents the redundancy manner of the selected protein template mode
 Mutations in TP53, particularly in the DNA-binding domain, are common in cancers. These mutations impair p53's ability to suppress tumors, either through loss of function or gain-of-function (GOF) mutations that promote cancer progression. Hotspot mutations like R175, R248, and R273 occur frequently in ovarian, colorectal, and lung cancers. These changes affect p53’s ability to bind DNA and regulate genes involved in preventing uncontrolled cell growth.
 
 ## Comparison protein structures 
-**AlphaFold** predicts protein structures using deep learning techniques, generating models based on evolutionary data. For p53, AlphaFold produced five models, each showing different alignments and Root Mean Square Deviation (RMSD) values. **SWISS-MODEL** uses homology modeling to predict protein structures from related known templates and generates a biological assembly, which is four asymmetric units.
+**AlphaFold** predicts protein structures using deep learning techniques, generating models based on evolutionary data. For p53, AlphaFold produced five models, each showing different alignments and Root Mean Square Deviation (RMSD) values. 
+<img alt="Fig4: Models generated using Alphafold" src="images/Alphafold_models.png" width=100%>
+
+
+**SWISS-MODEL** uses homology modeling to predict protein structures from related known templates and generates a biological assembly, which is four asymmetric units.
+<img alt="Fig5: Models generated using Swiss model" src="images/Swiss_model.png" width=100%>
+
 
 ## Accuracy and Performance 
 The original p53 structure from the Protein Data Bank (PDB) was aligned with models from AlphaFold and SWISS-MODEL. AlphaFold’s best model showed an RMSD of 0.220 across 26 atoms, while SWISS-MODEL had an RMSD of 0.055 across 27 atoms, indicating a closer fit to the original structure.
+<img alt="Fig6: Fiiting the protein with Alphafold model" src="images/Align_alphafold.png" width=100%>
+<img alt="Fig4: Fitting the protein with Swiss model" src="images/Align_Swiss.png" width=100%>
 
 ## Conclusion
 SWISS-MODEL provided a better alignment with the original p53 structure, as reflected by lower RMSD values, making it a more accurate representation compared to AlphaFold.
