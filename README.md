@@ -28,7 +28,7 @@ At least 50 templates were generated through SWISS-MODEL from which a directly a
 ![Fig2: Selected model from p53 domain through SWISS-MODEL](images/structure%20(1).png)
 
 The template model stands with 90% of accuracy (GMQE data) in the alignment results corresponding to the PDB data of p53, providing the highest accuracy levels amongst all the templates generated. The template model is externally validated using X-ray mechanisms and matches with a 100% identification rate to the protein crystal structure. 
-[Fig3:Comparison with Non-redundant Set of PDB Structures](images/Quality_comparison.png)
+<img alt="Fig3:Comparison with Non-redundant Set of PDB Structures" src="images/Quality_comparison.png" width=100%>
 The graph represents the redundancy manner of the selected protein template model that locates in between the expected rates of QMEAN scores, referring it to be a potential model for homology modeling and visualization. 
 
 ## Cancer-related Mutations 
