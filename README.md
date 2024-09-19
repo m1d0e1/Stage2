@@ -21,7 +21,7 @@ The initiation and validation of p53 protein into cancer research incorporation 
 This model is secured under the PDB ID: 1AIE.
 DOI: https://www.wwpdb.org/pdb?id=pdb_00001aie
 The crystal model of p53 serves as an independent entity with core functioning data, devoid of any coherence or association with external molecules. 
-![Fig1: 1AIE: p53 tetramerization domain crystal culture|1000](images/1aie_assembly-1.jpeg)
+<img alt="Fig1: 1AIE: p53 tetramerization domain crystal culture" src="images/1aie_assembly-1.jpeg" width=100%>
 
 Using the data derived from the PDB ID, the FASTA sequence derived from this protein model is used further in SWISS-MODEL to extract templates of the highest homogeneity and uniformity corresponding with the selected protein structure. 
 At least 50 templates were generated through SWISS-MODEL from which a directly aligned prototype of 1AIE was recovered (1AIE.1.D). The selected template shows existing data of the p53 protein of interest
