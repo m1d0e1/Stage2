@@ -45,8 +45,8 @@ Mutations in TP53, particularly in the DNA-binding domain, are common in cancers
 
 ## Accuracy and Performance 
 The original p53 structure from the Protein Data Bank (PDB) was aligned with models from AlphaFold and SWISS-MODEL. AlphaFold’s best model showed an RMSD of 0.220 across 26 atoms, while SWISS-MODEL had an RMSD of 0.055 across 27 atoms, indicating a closer fit to the original structure.
-<img alt="Fig6: Fiiting the protein with Alphafold model" src="images/Align_alphafold.jpg" width=100%>
-<img alt="Fig4: Fitting the protein with Swiss model" src="images/Align_Swiss.jpg" width=100%>
+<img alt="Fig6: Fiiting the protein with Alphafold model" src="images/1aie_alphafold_align.png" width=100%>
+<img alt="Fig4: Fitting the protein with Swiss model" src="images/1aie_swiss_align.png" width=100%>
 
 ## Conclusion
 SWISS-MODEL provided a better alignment with the original p53 structure, as reflected by lower RMSD values, making it a more accurate representation compared to AlphaFold.
